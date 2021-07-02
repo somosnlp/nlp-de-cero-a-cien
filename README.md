@@ -1,6 +1,6 @@
 # Curso Práctico: NLP de cero a cien
 
-Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las librerías más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Transformers, Word Embeddings, Attention, Sequential Models y Language Modeling.
+Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Transformers, Word Embeddings, Attention, Sequential Models y Language Modeling.
 
 ## Calendario
 El curso está dividido en 7 sesiones que se impartirán cada dos martes a las 18h CET a partir del 13 de Julio.
