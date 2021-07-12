@@ -17,7 +17,11 @@ El curso está dividido en 7 sesiones que se impartirán cada dos martes a las 1
 
 Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver dudas de los asistentes.
 
-En este repositorio puedes consultar toda la información actualizada sobre la planificación y el material del curso. Además, hemos creado un canal llamado #nlp-de-cero-a-cien en nuesta comunidad de [Slack](https://bit.ly/nlp-en-es) donde podrás preguntar tus dudas a formadores y compañeros.
+¿Te has perdido una sesión? ¡No pasa nada!
+
+- Subimos las grabaciones a esta [playlist de YouTube](https://www.youtube.com/playlist?list=PLBILcz47fTtPspj9QDm2E0oHLe1p67tMz).
+- En este repositorio puedes consultar todo el material del curso y recursos extra.
+- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de [Slack](https://bit.ly/nlp-en-es).
 
 ## Formadores
 Por orden alfabético:
