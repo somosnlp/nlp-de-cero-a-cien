@@ -8,7 +8,7 @@ Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP 
 El curso está dividido en 7 sesiones que se impartirán cada dos martes a las 18h CET a partir del 13 de Julio. Dependiendo de tu nivel actual puedes unirte al curso en la sesión que quieras.
 
 - 13 Jul: Introducción, contexto y Word Embeddings
-- 27 Jul: Modelos secuenciales (RNNs, LSTMs) + caso práctico: clasificación de texto
+- 03 Ago: Modelos secuenciales (RNNs, LSTMs) + caso práctico: clasificación de texto
 - 10 Ag: Transformers I. Attention, arquitectura Transformer, sequence-to-sequence
 - 24 Ag: Transformers II. Transfer learning + caso práctico: mejorar clasificación de texto
 - 7 Sep: Transformers III. Encoder based, decoder based
