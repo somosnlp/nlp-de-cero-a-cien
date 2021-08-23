@@ -1,6 +1,6 @@
 # Aprendizaje de transferencia y clasificación de textos con Transformers
 
-Esta semana el tema fue word embeddings, un concepto fundamental de procesamiento de lenguaje natural. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab con ejercicios para que puedan entender mejor el concepto.
+Esta semana el tema fue aprendizaje de transferencia, un concepto fundamental de procesamiento de lenguaje natural. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab con ejercicios para que puedan entender mejor el concepto.
 
 ## Recursos adicionales
 
