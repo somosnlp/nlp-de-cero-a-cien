@@ -1,15 +1,15 @@
-# Aprendizaje de transferencia y clasificación de textos con Transformers
+# Generación de textos con con Transformers
 
-Esta semana el tema fue aprendizaje de transferencia, un concepto fundamental de procesamiento de lenguaje natural. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab con ejercicios para que puedan entender mejor el concepto.
+Esta semana el tema fue generación de textos, un concepto fundamental de Transformers famosos como el GPT-2 y GPT-3. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab para que puedan entender mejor el concepto.
 
 ## Recursos adicionales
 
-* [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/): Esta es una guía ilustrada que explica de manera muy intuitiva los conceptos de aprendizaje de transferencia y clasificación de textos.
-* [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/): Otra guía ilustrada, centrada en el uso de BERT como extractor de "features" para la clasificación de textos.
-* [Recent Advances in Language Model Fine-tuning](https://ruder.io/recent-advances-lm-fine-tuning/): Todas las formas de fine-tuning que se realizan hoy en día.
+* [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/): Esta es una guía ilustrada que explica de manera muy intuitiva los conceptos de decoders y generacion de textos.
+* [Natural Language Processing With Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/ch06.html): Un capítulo del próximo libro sobre Transformers y en el que se basó esta sesión.
+* [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): Un recorrido detallado sobre varias formas de generar texto
 
 ## Papers
 
-* [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146). Este fue el primer trabajo en el que el aprendizaje de transferencia para la NLP realmente funcionó. Basado en LSTMs y parte de fast.ai
-* [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf): El paper de GPT en el que se utilizó por primera vez el aprendizaje por transferencia con la arquitectura Transformer.
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805?source=post_page): El artículo del BERT que estableció un nuevo state-of-the-art en varias tareas de NLP posteriores.
+* [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/). Tal vez sea la primera vez que un transformador aparece en las noticias.
+* [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf): Tal vez el modelo de lenguaje más potente del mundo en este momento, GPT-3 muestra interesantes capacidades como el aprendizaje de cero y pocos demostraciones.
+* [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374): El modelo detrás del GitHub Copilot
