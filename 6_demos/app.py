@@ -1,10 +1,9 @@
 import gradio as gr
 
-title = "BERTIN, tengo una pregunta"
-description = "BERTIN large fine-tuned con el corpus SQAC (Spanish Question-Answering Corpus)"
+title = "RoBERTa, tengo una pregunta"
+description = "Modelo tipo RoBERTa pre-entrenado por BSC-TeMU con la base de datos de la Bibliotecha Nacional de España y fine-tuned con el corpus SQAC (Spanish Question-Answering Corpus)."
 examples = [
-    ["BERTIN es un conjunto de modelos de NLP tipo RoBERTa entrenados durante el evento JAX/Flax organizado por Hugging Face.", "¿Qué es BERTIN?"],
-    ["El corpus SQAC fue creado por un equipo del Barcelona Supercomputing Center y la sigla proviene de Spanish Question-Answering Corpus.", "¿Qué significa SQAC?"]
+    ["¡Hola, mundo! Somos NLP en ES 🤗 la comunidad de hispanohablantes de la iniciativa “Languages at HuggingFace” y queremos democratizar el NLP en nuestro idioma. Somos una red internacional y nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español.", "¿Quiénes somos?"]
 ]
 article = """
 <p style="text-align: center">
@@ -13,8 +12,8 @@ article = """
 """
 
 gr.Interface.load(
-    name="huggingface/nlp-en-es/bertin-large-finetuned-sqac",
-    inputs=[gr.inputs.Textbox(label="Contexto"), gr.inputs.Textbox(label="Pregunta")],   
+    name="huggingface/nlp-en-es/roberta-base-bne-finetuned-sqac",
+    inputs=[gr.inputs.Textbox(label="Contexto", lines=5), gr.inputs.Textbox(label="Pregunta")],   
     outputs=gr.outputs.Textbox(label="Respuesta"),
     title=title,
     description=description,
