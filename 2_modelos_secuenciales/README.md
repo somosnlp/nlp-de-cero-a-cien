@@ -1,4 +1,4 @@
-# Modelos Secuenciales (RNN y LSTM)
+# Modelos Secuenciales (RNNs y LSTMs)
 
 ## Papers
 - Sepp Hochreiter, Jürgen Schmidhuber; Long Short-Term Memory. Neural Comput 1997; 9 (8): 1735–1780. doi: https://doi.org/10.1162/neco.1997.9.8.1735
