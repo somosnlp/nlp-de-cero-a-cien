@@ -2,7 +2,7 @@
 
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Transformers, Word Embeddings, modelos secuenciales, mecanismos de atención y modelado del lenguaje.
 
-➡️ Versión web: https://nlp-en-es.org/nlp-de-cero-a-cien
+➡️ Versión web: https://somosnlp.org/nlp-de-cero-a-cien
 
 ## Calendario
 El curso está dividido en 7 sesiones que se impartirán cada dos martes a las 18h CET a partir del 13 de Julio. Dependiendo de tu nivel actual puedes unirte al curso en la sesión que quieras.
@@ -21,13 +21,13 @@ Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver d
 
 - Subimos las grabaciones a esta [playlist de YouTube](https://www.youtube.com/playlist?list=PLBILcz47fTtPspj9QDm2E0oHLe1p67tMz).
 - En este repositorio puedes consultar todo el material del curso y recursos extra.
-- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de [Slack](https://bit.ly/nlp-en-es).
+- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de [Discord](https://discord.com/invite/my8w7JUxZR).
 
 ## Formadores
 Por orden alfabético:
 
 [María Grandury](https://www.linkedin.com/in/mariagrandury):
-María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad "NLP en ES 🤗" con el objetivo de acelerar el avance del NLP en español.
+María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad Somos NLP con el objetivo de acelerar el avance del NLP en español.
 
 [Manuel Romero](https://www.linkedin.com/in/manuel-romero-cs/):
 Manuel tiene una "mente inquieta y un alma emprendedora". Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con más de 200 modelos.
@@ -41,15 +41,15 @@ Lewis es Ingeniero de Machine Learning en el equipo de open-source de Hugging Fa
 ## Inscripción
 El curso es gratuito y via online. Al registrarte en [Eventbrite](https://bit.ly/nlp-de-cero-a-cien) recibirás un email de confirmación y otro el día de cada sesión para poder entrar en el workshop.
 
-## Organizan NLP en ES 🤗 y Spain AI
+## Organizan Somos NLP 🤗 y Spain AI
 
-### NLP en ES 🤗
-NLP en ES es la red internacional de profesionales, investigadores y estudiantes acelerando el avance del NLP en español. Nació como la comunidad de hispanohablantes de la iniciativa "Languages at Hugging Face" con el objetivo de democratizar el NLP en español:
+### Somos NLP 🤗
+Somos NLP es la red internacional de profesionales, investigadores y estudiantes acelerando el avance del NLP en español. Nació como la comunidad de hispanohablantes de la iniciativa "Languages at Hugging Face" con el objetivo de democratizar el NLP en español:
 
 - ¿Cómo? Creando y compartiendo recursos que posibiliten y aceleren el desarrollo del NLP en Español.
 - ¿Por qué? La investigación en NLP está centrada en el inglés y descuida las dificultades particulares del NLP en español. Creemos que un idioma tan extendido como el español debería tener una representación acorde en el ámbito del NLP y vamos a hacer esto realidad.
 
-¡Únete a la comunidad en [Slack](https://bitly.com/nlp-en-es) y síguenos en [Twitter](https://twitter.com/NLP_en_ES) y [LinkedIn](https://www.linkedin.com/company/nlp-en-es/)!
+¡Únete a la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR) y síguenos en [YouTube](https://www.youtube.com/channel/UCnvcxysBFeTCofT-1r6SieQ), [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)!
 
 ### Spain AI
 Spain AI es una red nacional y asociación sin ánimo de lucro, con la finalidad de crear una comunidad colaborativa dentro del ámbito de la Inteligencia Artificial en España.
