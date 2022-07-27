@@ -1,3 +1,5 @@
+➡️ Versión web: https://somosnlp.org/nlp-de-cero-a-cien/sesion-05
+
 # Generación de textos con con Transformers
 
 Esta semana el tema fue generación de textos, un concepto fundamental de Transformers famosos como el GPT-2 y GPT-3. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab para que puedan entender mejor el concepto.

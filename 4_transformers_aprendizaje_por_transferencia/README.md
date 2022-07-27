@@ -1,3 +1,5 @@
+➡️ Versión web: https://somosnlp.org/nlp-de-cero-a-cien/sesion-04
+
 # Aprendizaje por transferencia y clasificación de textos con Transformers
 
 Esta semana el tema fue aprendizaje de transferencia, un concepto fundamental de procesamiento de lenguaje natural. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab con ejercicios para que puedan entender mejor el concepto.

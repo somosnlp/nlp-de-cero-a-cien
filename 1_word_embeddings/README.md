@@ -1,3 +1,5 @@
+➡️ Versión web: https://somosnlp.org/nlp-de-cero-a-cien/sesion-01
+
 # Introducción al Procesamiento del Lenguaje Natural y Word Embeddings
 
 Esta semana el tema fue word embeddings, un concepto fundamental de procesamiento de lenguaje natural. Aquí les compartimos recursos adicionales así como publicaciones por si les interesa entrar con mayor profundidad en el tema. Así mismo, hay un cuaderno de colab con ejercicios para que puedan entender mejor el concepto.
